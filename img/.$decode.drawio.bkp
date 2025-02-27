@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kpV4f6-Z8FEQxIWmQuwD-51" value="$$P = r^{-1}\cdot(s \circ R - z\circ G)$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410.75" y="530" width="186.25" height="70" as="geometry" />
+          <mxGeometry x="420" y="530" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kpV4f6-Z8FEQxIWmQuwD-57" value="Signature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="250" width="60" height="30" as="geometry" />
